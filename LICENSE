@@ -1,21 +1,30 @@
 MIT License
 
-Copyright (c) 2026 Văn Hậu
+Bản quyền (c) 2026 Văn Hậu
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Quyền được cấp miễn phí cho bất kỳ ai có được bản sao
+của phần mềm này và các tệp tài liệu liên quan ("Phần mềm"), để sử dụng
+Phần mềm mà không bị hạn chế, bao gồm nhưng không giới hạn các quyền
+sử dụng, sao chép, sửa đổi, hợp nhất, xuất bản, phân phối, cấp phép lại và/hoặc bán
+các bản sao của Phần mềm, và cho phép những người được cung cấp Phần mềm làm như vậy, tuân theo các điều kiện sau:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. API này dành cho mục đích thương mại hoặc các dịch vụ phi lợi nhuận. API này có thể được tích hợp vào các công cụ hoặc ứng dụng được sử dụng cho ứng dụng, môi trường khác nhau.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Các yêu cầu tự động đến API này để gửi thư rác hoặc sử dụng quá mức bị nghiêm cấm. Các biện pháp đã được thực hiện để ngăn chặn việc lạm dụng như vậy, bao gồm cả việc chặn IP.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2026 Van Hau
+
+Rights are granted free of charge to anyone who obtains a copy
+
+of this software and related documentation files ("Software"), to use
+the Software without restriction, including but not limited to the rights
+to use, copy, modify, merge, publish, distribute, sublicense and/or sell
+copies of the Software, and to allow persons provided with the Software to do so, subject to the following conditions:
+
+1. This API is for commercial or non-profit purposes. This API may be integrated into tools or applications used for different applications and environments.
+
+2. Automated requests to this API for spamming or excessive use are strictly prohibited. Measures have been taken to prevent such abuse, including IP blocking.
